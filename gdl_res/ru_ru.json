@@ -50,12 +50,12 @@
 	
 	"%ih %imin": "%iч %iмин",
 	
-	"%s\nTotal Attempts: %i\nTotal Jumps: %i\nNormal: %i%%\nPractice: %i%%": "<cy>%s</c>|<cg>Всего попыток</c>: %i|<cb>Всего прыжков</c>: %i|<cp>Обычный режим</c>: %i%|<co>Режим практики</c>: %i%",
+	"%s|Total Attempts: %i|Total Jumps: %i|Normal: %i%%|Practice: %i%%": "<cy>%s</c>|<cg>Всего попыток</c>: %i|<cb>Всего прыжков</c>: %i|<cp>Обычный режим</c>: %i%|<co>Режим практики</c>: %i%",
 	
 	"SongID: %i  Size: %iMB": "ID песни: %i  Размер: %iMB",
 	"%i to %i of %i": "%i - %i из %i",
 	
-	"Do you want to buy this %s\nfor %i mana orbs?": "Вы хотите <cg>купить</c> этот(эту) <co>%s</c>|за <cy>%i</c> <cb>сфер маны</c>?",
+	"Do you want to buy this %s|for %i mana orbs?": "Вы хотите <cg>купить</c> этот(эту) <co>%s</c>|за <cy>%i</c> <cb>сфер маны</c>?",
 	"Buy": "Купить",
 	"Buy Item": "Купить предмет",
 	"Download the soundtracks": "Скачать саундтреки",
