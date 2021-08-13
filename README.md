@@ -1,2 +1,2 @@
 # gdl-installer-files
-0_o
+Geometry Dash Localisation installer
