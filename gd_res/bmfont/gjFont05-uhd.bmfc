@@ -1,0 +1,60 @@
+# AngelCode Bitmap Font Generator configuration file
+fileVersion=1
+
+# font settings
+fontName=GoodDog
+fontFile=
+charSet=0
+fontSize=140
+aa=1
+scaleH=100
+useSmoothing=1
+isBold=0
+isItalic=0
+useUnicode=1
+disableBoxChars=1
+outputInvalidCharGlyph=1
+dontIncludeKerningPairs=0
+useHinting=1
+renderFromOutline=0
+useClearType=1
+autoFitNumPages=0
+autoFitFontSizeMin=0
+autoFitFontSizeMax=0
+
+# character alignment
+paddingDown=5
+paddingUp=0
+paddingRight=5
+paddingLeft=0
+spacingHoriz=2
+spacingVert=2
+useFixedHeight=1
+forceZero=0
+widthPaddingFactor=0.00
+
+# output file
+outWidth=2048
+outHeight=2048
+outBitDepth=32
+fontDescFormat=0
+fourChnlPacked=0
+textureFormat=png
+textureCompression=0
+alphaChnl=1
+redChnl=0
+greenChnl=0
+blueChnl=0
+invA=0
+invR=0
+invG=0
+invB=0
+
+# outline
+outlineThickness=4
+
+# selected chars
+chars=13,32-126,161,165,167-168,171,180,187,191-197,199-207,209-214,217-220,224-229,231-239,241-246,249
+chars=250-252,305,730,1025,1040-1103,1105,8216-8217,8220-8221,8226,8364,57344
+
+# imported icon images
