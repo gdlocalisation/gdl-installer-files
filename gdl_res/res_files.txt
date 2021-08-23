@@ -24,5 +24,3 @@ GJ_GameSheet03-uhd.plist
 GJ_GameSheet03-uhd.png
 goldFont-uhd.fnt
 goldFont-uhd.png
-info.txt
-res_files.txt
