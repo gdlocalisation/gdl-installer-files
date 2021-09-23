@@ -89,9 +89,9 @@
 	"Editor L": "Слой",
 	"Editor L2": "Слой 2",
 	"Z Layer": "Слой Z",
-	"Fade in": "Появление",
+	"Fade in": "Появлен.",
 	"Hold": "Задержка",
-	"Fade out": "Исчезновение",
+	"Fade out": "Исчезнов.",
 	"Color": "Цвет",
 	"Exclusive": "Экслюзив",
 	"Setup Pulse Effect": "Настройка Пульсации",
@@ -485,5 +485,8 @@
 "Insert comment": "Введите комментарий",
 "Submit": "Отправить",
 "Report Level": "Подать Жалобу",
-"Select Font": "Выбрать Шрифт"
+"Select Font": "Выбрать Шрифт",
+"Testmode": "Тестирование",
+"Normal": "Обычная",
+"Custom": "Пользов."
 }
