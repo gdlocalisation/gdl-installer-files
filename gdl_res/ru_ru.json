@@ -340,7 +340,7 @@
         "Don't push the button!": "Не нажимай на кнопку!",
         "You're gonna get me in trouble...": "Из-за тебя у меня будут проблемы...",
         "This is getting ridiculus...": "Это уже становится смешным...",
-        "Go collect some stars": "Иди набери ещё звёзд",
+        "Go collect some stars": "Иди собери ещё звёзд",
         "Maybe there are new levels?": "Может, есть новые уровни?",
         "Just, stop bothering me": "Просто, перестань меня беспокоить",
         "I'm gonna stop talking": "Я собираюсь перестать говорить",
@@ -626,5 +626,12 @@
   "Dr. Click": "Доктор Клик",
   "lol is lol backwards": "лол будет лол наоборот",
   "Kappa": "Каппа",
-  "View": "Открыть"
+  "View": "Открыть",
+  "Level Verified!": "Уровень Проверен!",
+  "Level and Coins Verified!": "Уровень и Монеты проверены!",
+  "Max Coins": "Макс. Монеты",
+  "Unknown": "Неизвестно",
+  "Something went wrong...": "Что-то пошло не так...",
+  "Something went wrong.": "Что-то пошло не так.",
+  "My Online Levels": "Мои Онлайн Уровни"
 }
