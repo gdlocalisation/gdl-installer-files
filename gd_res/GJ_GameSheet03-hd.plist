@@ -79,6 +79,21 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
+		<key>GJ_GameSheet03-uhd.rar</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string></string>
+			<key>spriteSize</key>
+			<string>{0,0}</string>
+			<key>spriteSourceSize</key>
+			<string></string>
+			<key>textureRect</key>
+			<string>{{6,0},{0,0}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
 		<key>GJ_achBtn_001.png</key>
 		<dict>
 			<key>aliases</key>
@@ -1440,7 +1455,7 @@
 			<key>spriteSourceSize</key>
 			<string></string>
 			<key>textureRect</key>
-			<string>{{6,0},{0,0}}</string>
+			<string>{{7,0},{0,0}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -6255,7 +6270,7 @@
 			<key>spriteSourceSize</key>
 			<string></string>
 			<key>textureRect</key>
-			<string>{{7,0},{0,0}}</string>
+			<string>{{8,0},{0,0}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -6390,7 +6405,7 @@
 			<key>spriteSourceSize</key>
 			<string></string>
 			<key>textureRect</key>
-			<string>{{8,0},{0,0}}</string>
+			<string>{{9,0},{0,0}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -6420,7 +6435,7 @@
 			<key>spriteSourceSize</key>
 			<string></string>
 			<key>textureRect</key>
-			<string>{{9,0},{0,0}}</string>
+			<string>{{10,0},{0,0}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -6450,7 +6465,7 @@
 			<key>spriteSourceSize</key>
 			<string></string>
 			<key>textureRect</key>
-			<string>{{10,0},{0,0}}</string>
+			<string>{{11,0},{0,0}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
