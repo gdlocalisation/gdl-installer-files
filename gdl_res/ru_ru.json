@@ -809,5 +809,6 @@
     "Passwords do not match": "Несовпадающие пароли",
     "Email is invalid": "Email не подтверждён",
     "Warning": "Внимание",
-    "Do you really want to <cg>unlink</c> from the account <cl>%s</c>?": "Вы действительно хотите <cg>отвязать</c> аккаунт <cl>%s</c>?"
+    "Do you really want to <cg>unlink</c> from the account <cl>%s</c>?": "Вы действительно хотите <cg>отвязать</c> аккаунт <cl>%s</c>?",
+    "The": " "
 }
