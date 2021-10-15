@@ -1085,4 +1085,10 @@
     "Passwords do not match": "Несовпадающие пароли",
     "Email is invalid": "Email не подтверждён",
     "Warning": "Внимание"
+    "Choose a font that will be used in this level. You can only use one font at a time.": "Выберите шрифт который будет использ. в этом|уровне. Вы можете использ. только 1 шрифт за уровень.",
+    "Empty": "Пустой",
+    "You can't share an empty level.": "Вы не можете выложить пустой уровень.",
+    "By sharing a level you give the rights to use the level (in any way) to the creators of Geometry Dash.": "Выкладывая уровень, вы даёте право использовать его (любым способом) создателям Geometry Dash.",
+    "": "",
+    "You can't change the name once it's shared.": "<cy>Вы не сможете изменить название после выкладывания.</c>"
 }
