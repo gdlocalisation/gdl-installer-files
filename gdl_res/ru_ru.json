@@ -1133,4 +1133,5 @@
     "Item pickup help": "              <cg>\"ID Предмета\" работает как добавить в группу</c>\n                                                   <cy> \"Вычитать\"-при подборе этого предмета счёт уменьшиться.</c>\n                    <cl> \"Триггер Переключения\"-предмет работает как \"Триггер Переключения\".</c>",
     "Select color channel to use for this object(s). Edit the selected channel in the bottom right. Next free selectes an unused color channel. Use HSV to modify the color of the object. Copy the color configuration to quickly apply to other objects": "<cg>Выберите цветовой канал, который будет использ. для</c>\n                            <cg> этого(их) объекта(ов).</c>|<cy>Отредактируйте выбранный канал в правом нижнем углу.</c>|<cl>\"След. Свободн.\" выбирает неиспольз. цветовой канал.</c>|<cp>Используйте HSV, чтобы изменить цвет объекта.</c>|<co>Скопируйте цветовую конфигурацию, чтобы быстро</c>|<co>применить это к другим объектам.</c>",
     "Too fast": "Слишком Быстро"
+    "Awarded": "Награжд."
 }
