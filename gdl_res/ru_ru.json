@@ -1297,5 +1297,16 @@
     "Group\nParent": "Родитель\nГруппы",
     "High\nDetail": "Высокая\nДетализ.",
     "Edit Pickup": "Изменить Подбор",
-    "Layer: %s Z: %s ": "Слой: %s Z: %s"
+    "Layer: %s Z: %s ": "Слой: %s Z: %s",
+    "Select\nAll": "Выбрать\nвсё",
+    "Select\nAll Left": "Выбрать\nвсё слева",
+    "Select\nAll Right": "Выбрать\nВсё Справа",
+    "Build\nHelper": "Копир. со\nСвоб. Группами",
+    "Create\nBase": "Создать\nОснову",
+    "Create\nOutlines": "Создать\nОбводку",
+    "Create\nEdges": "Создать\nКрая",
+    "Reset\nUnused": "Очистить\nНеисп. Цвета",
+    "Uncheck\nPortals": "Сбросить\nПорталы",
+    "Reset Unused Colors": "Очистить Неисп. Цвета",
+    "Reset all unused color channels? This will make those channels available as 'next free'": "Очистить все неисп. цветовые каналы?|<cy>Это сделает эти каналы доступными</c>|<cy>для \"след. свободн.\".</c>"
 }
