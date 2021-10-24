@@ -1342,5 +1342,21 @@
     "Disable Comments": "Отключить Комментарии",
     "Disable Account\nComments": "Отключить Комментарии\nАккаунта",
     "Only Allow\nFeatured Levels": "Разрешить Только\nИзбранные Уровни",
-    "Nothing is secret!": "Ничто не секрет!"
+    "Nothing is secret!": "Ничто не секрет!",
+    "Featured Artists": "Избранные Артисты",
+    "Set Folder Name": "Назвать Папку",
+    "Remove Server Level": "Удалить Серв. Уровень",
+    "Rate Stars": "Оценить на Звёзды",
+    "Vote": "Оценить",
+    "[Optional Message]": "[Необязательное Сообщение]",
+    "Friend request": "Запрос в друзья",
+    "Subject": "Тема",
+    "Message": "Сообщение",
+    "Sending...": "Отправление...",
+    "Friend request sent!": "Запрос в друзья отправлен!",
+    "Cancel friend request": "Отменить запрос в друзья",
+    "Rate Demon": "Оценить Демон",
+    "(Weekly)": "(Неделя)",
+    "(Daily)": "(День)",
+    "New!": "Новый!"
 }
