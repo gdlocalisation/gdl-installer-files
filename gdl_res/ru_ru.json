@@ -151,7 +151,7 @@
   "Completed": "Пройденные",
   "Uncompleted": "Не пройденные",
   "Featured": "Избранные",
-  "Original": "Оригинальные",
+  "Original": "Оригинал",
   "Epic": "Эпические",
   "Song": "Песня",
   "No Star": "Без звёзд",
@@ -460,7 +460,7 @@
   "Total Jumps:": "Всего Прыжков:",
   "Find Users": "Поиск Пользователей",
   "Download Soundtrack": "Скачать Саундтрек",
-  "Update": "Обновление",
+  "Update": "Обновить",
   "Commenting Rules": "Правила Комментирования",
   "Next": "Дальше",
   "Add Comment": "Добавить Комментарий",
@@ -1881,5 +1881,11 @@
   "I don't think cubes can walk": "Я не думаю, что кубы умеют ходить",
   "Nevermind...": "Неважно...",
   "Upload Failed. Please try again later.": "Загрузка Провалена. Пожалуйста попробуйте ещё раз позже.",
-  "Close": "Закрыть"
+  "Close": "Закрыть",
+  "Account needed": "Нужен аккаунт",
+  "Music Changes": "Изменения Музыки",
+  "Obj": "Объ",
+  "2-Player Mode": "Режим 2-Игроков",
+  "Please wait, uploading level...": "Пожалуйста подождите, выкладывание уровня...",
+  "Upload Complete": "Успешно Выложено"
 }
