@@ -1899,5 +1899,10 @@
   "Saturation: x1.00": "Насыщенность: x1.00",
   "Saturation: 0.00": "Насыщенность: 0.00",
   "Hue: 0": "Тон: 0",
-  "Setup Object": "Настр. Объекта"
+  "Setup Object": "Настр. Объекта",
+  "No comments": "Нет комментариев",
+  "Reward": "Награда",
+  "No Internet connection!": "Нет подключения к Интернету!",
+  "Coin Finder": "Сыщик Монет",
+  "Orb Master": "Мастер Орбов"
 }
