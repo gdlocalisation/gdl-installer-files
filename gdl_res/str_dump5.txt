@@ -1756,3 +1756,5 @@ Vote
 View
 Me
 Sync
+Play
+Base
