@@ -1714,6 +1714,7 @@ You can place checkpoints manually, or use the auto-checkpoint feature.\nTap the
 <cy>Jump rings</c> activate when you are on top of them.\n<cg>Tap</c> while touching a ring to perform a ring jump.
 <cg>Tap</c> the screen to jump.\n<cg>Hold</c> down to keep jumping.
 Tiny
+YES
 NO
 OK
 Rate
@@ -1758,3 +1759,7 @@ Me
 Sync
 Play
 Base
+Nope
+GAH!
+Sub!
+Buy
