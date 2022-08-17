@@ -1763,3 +1763,15 @@ Nope
 GAH!
 Sub!
 Buy
+P1
+P2
+LBG
+Obj
+Mixed
+BG
+G1
+G2
+Line
+L
+Num
+Select Ground
