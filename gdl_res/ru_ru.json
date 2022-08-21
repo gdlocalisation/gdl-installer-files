@@ -2075,5 +2075,8 @@
     "ufo": "нло",
     "ball": "шар",
     "ship": "корабль",
-    "3DL": "3DЛ"
+    "3DL": "3DЛ",
+    "Do you want to <cg>update</c> the level <cl>description</c>?": "Вы хотите <cg>обновить</c> <cl>описание</c> уровня?",
+    "Updating description...": "Обновление описания...",
+    "Description updated!": "Описание обновлено!"
 }
