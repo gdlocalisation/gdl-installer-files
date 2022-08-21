@@ -1763,15 +1763,16 @@ Nope
 GAH!
 Sub!
 Buy
-P1
-P2
-LBG
-Obj
-Mixed
+icon
+wave
+ufo
+ball
+ship
 BG
 G1
 G2
 Line
-L
-Num
-Select Ground
+Obj
+3DL
+P1
+P2
