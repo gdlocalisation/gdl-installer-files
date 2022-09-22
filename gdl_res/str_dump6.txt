@@ -1779,3 +1779,8 @@ To:
 icon
 FAQ
 Show
+Jump
+Undo
+Redo
+Snap
+Add
