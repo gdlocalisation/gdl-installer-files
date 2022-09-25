@@ -1446,7 +1446,7 @@
     "Please wait %i seconds before posting a new update!": "Пожалуйста, подождите %i сек прежде чем публиковать новый пост!",
     "Thank you for logging in.\nYou have now linked your account:\n<cg>%s</c>": "Спасибо, что вошли.\nТеперь вы привязаны к аккаунту:\n<cg>%s</c>",
     "Thank you for registering.\nA confirmation email has been sent to your inbox <cy>%s</c>.\nPlease <cg>activate</c> your account.": "Спасибо за регистрацию.\nПисьмо подтверждения было отправлено на вашу почту <cy>%s</c>.\nПожалуйста, <cg>активируйте</c> свой аккаунт.",
-    "The <cg>Creators leaderboard</c> is calculated by counting the number of a creators levels that have been given a <cy>star</c> value plus one for every level that has been <cl>featured</c>.": "<cg>Таблица Создателей</c> расчитывается по кол-ву созданных уровней, которые получили <cy>звёзды</c> плюс один за каждый уровень, который получил <cl>оценку</c> и плюс ещё один за каждый с <co>эпической</c> оценкой.",
+    "The <cg>Creators leaderboard</c> is calculated by counting the number of a creators levels that have been given a <cy>star</c> value plus one for every level that has been <cl>featured</c>.": "<cg>Таблица Создателей</c> рассчитывается по кол-ву созданных уровней, которые получили <cy>звёзды</c> плюс один за каждый уровень, который получил <cl>оценку</c> и плюс ещё один за каждый с <co>эпической</c> оценкой.",
     "<cg>This is where you get and complete quests.</c>\n<cy>You can have max 3 quests + 3 queued.</c>\n<cl>Dots to the right of a quest indicates\nthat another quest is queued.</c>": "<cg>Здесь вы можете получить и завершить квесты.</c>\n<cy>У вас может быть максимум 3 квеста + 3 в очереди.</c>\n<cl>Точки справа от квестов показывают,\nчто новый квест в очереди.</c>",
     "Quest Complete!": "Квест Пройден!",
     "Well done... Now try to complete it without any checkpoints!": "Так держать... Теперь попробуйте пройти это без чекпоинтов!",
@@ -1603,5 +1603,7 @@
     "Show": "Показать",
     "Comment flagged as spam": "Комментарий помечен как спам",
     "<cy>Comment flagged as spam</c>": "<cy>Комментарий помечен как спам</c>",
-    "Playback music": "Воспроизвести музыку"
+    "Playback music": "Воспроизвести музыку",
+	"<cg>Item pickup help</c>": "<cp>Подбираемый предмет - делает возможным выбрать ID Предмета.</c>\n<cy>Триггер переключ. - делает возможным выбрать группу для (де-)активации.</c>",
+	"I keep that door locked.\n<d030>RubRub's orders.": "Я держу эту дверь закрытой.\n<d030>Приказы РубРуба."
 }
