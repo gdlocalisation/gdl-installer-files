@@ -1784,3 +1784,11 @@ Undo
 Redo
 Snap
 Add
+No!
+ball
+Master Emblem
+ufo
+wave
+main color
+secondary color
+ship
