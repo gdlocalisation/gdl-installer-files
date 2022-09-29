@@ -1620,5 +1620,5 @@
     "You need a key to unlock this chest.": "Вам нужен ключ чтобы открыть этот сундук.",
     "Unlock <cy>%i</c> more <cg>%s</c>, and you can collect this bonus.": "Открой ещё <cy>%i</c> <cg>%s</c>, и ты сможешь собрать этот бонус.",
     "Chests": "Сунндук(а/ов)",
-    "You need %i more keys to unlock this chest": "Вам нужно(ен) ещё %i ключ(а\ей), чтобы открыть этот сундук"
+    "You need %i more keys to unlock this chest": "Вам нужно(ен) ещё %i ключ(а/ей), чтобы открыть этот сундук"
 }
