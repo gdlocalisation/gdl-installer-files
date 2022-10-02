@@ -33,6 +33,7 @@ gjFont03-hd.png
 gjFont03-uhd.fnt
 gjFont03-uhd.png
 gjFont03.fnt
+AchievementsDesc.plist
 gjFont03.png
 gjFont04-hd.fnt
 gjFont04-hd.png
