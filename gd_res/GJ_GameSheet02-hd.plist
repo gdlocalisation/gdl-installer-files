@@ -20339,13 +20339,13 @@
 		<key>premultiplyAlpha</key>
 		<false/>
 		<key>realTextureFileName</key>
-		<string>GJ_GameSheet02.png</string>
+		<string>GJ_GameSheet02-hd.png</string>
 		<key>size</key>
 		<string>{2384,2695}</string>
 		<key>smartupdate</key>
 		<string>$none</string>
 		<key>textureFileName</key>
-		<string>GJ_GameSheet02.png</string>
+		<string>GJ_GameSheet02-hd.png</string>
 	</dict>
 </dict>
 </plist>

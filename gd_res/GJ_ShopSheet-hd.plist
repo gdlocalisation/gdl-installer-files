@@ -1379,13 +1379,13 @@
 		<key>premultiplyAlpha</key>
 		<false/>
 		<key>realTextureFileName</key>
-		<string>GJ_ShopSheet.png</string>
+		<string>GJ_ShopSheet-hd.png</string>
 		<key>size</key>
 		<string>{1596,2260}</string>
 		<key>smartupdate</key>
 		<string>$none</string>
 		<key>textureFileName</key>
-		<string>GJ_ShopSheet.png</string>
+		<string>GJ_ShopSheet-hd.png</string>
 	</dict>
 </dict>
 </plist>

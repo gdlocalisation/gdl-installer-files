@@ -79,21 +79,6 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>GJ_GameSheet03-uhd.rar</key>
-		<dict>
-			<key>aliases</key>
-			<array/>
-			<key>spriteOffset</key>
-			<string></string>
-			<key>spriteSize</key>
-			<string>{0,0}</string>
-			<key>spriteSourceSize</key>
-			<string></string>
-			<key>textureRect</key>
-			<string>{{6,0},{0,0}}</string>
-			<key>textureRotated</key>
-			<false/>
-		</dict>
 		<key>GJ_achBtn_001.png</key>
 		<dict>
 			<key>aliases</key>
@@ -1455,7 +1440,7 @@
 			<key>spriteSourceSize</key>
 			<string></string>
 			<key>textureRect</key>
-			<string>{{7,0},{0,0}}</string>
+			<string>{{6,0},{0,0}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -6270,7 +6255,7 @@
 			<key>spriteSourceSize</key>
 			<string></string>
 			<key>textureRect</key>
-			<string>{{8,0},{0,0}}</string>
+			<string>{{7,0},{0,0}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -6405,7 +6390,7 @@
 			<key>spriteSourceSize</key>
 			<string></string>
 			<key>textureRect</key>
-			<string>{{9,0},{0,0}}</string>
+			<string>{{8,0},{0,0}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -6435,7 +6420,7 @@
 			<key>spriteSourceSize</key>
 			<string></string>
 			<key>textureRect</key>
-			<string>{{10,0},{0,0}}</string>
+			<string>{{9,0},{0,0}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -6465,7 +6450,7 @@
 			<key>spriteSourceSize</key>
 			<string></string>
 			<key>textureRect</key>
-			<string>{{11,0},{0,0}}</string>
+			<string>{{10,0},{0,0}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -7084,6 +7069,21 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
+		<key>shopRope_001.pdn</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string></string>
+			<key>spriteSize</key>
+			<string>{0,0}</string>
+			<key>spriteSourceSize</key>
+			<string></string>
+			<key>textureRect</key>
+			<string>{{11,0},{0,0}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
 		<key>shopRope_001.png</key>
 		<dict>
 			<key>aliases</key>
@@ -7159,6 +7159,21 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
+		<key>treasureRoomLabel_001.pdn</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string></string>
+			<key>spriteSize</key>
+			<string>{0,0}</string>
+			<key>spriteSourceSize</key>
+			<string></string>
+			<key>textureRect</key>
+			<string>{{12,0},{0,0}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
 		<key>treasureRoomLabel_001.png</key>
 		<dict>
 			<key>aliases</key>
@@ -7229,13 +7244,13 @@
 		<key>premultiplyAlpha</key>
 		<false/>
 		<key>realTextureFileName</key>
-		<string>GJ_GameSheet03.png</string>
+		<string>GJ_GameSheet03-hd.png</string>
 		<key>size</key>
 		<string>{2720,2808}</string>
 		<key>smartupdate</key>
 		<string>$none</string>
 		<key>textureFileName</key>
-		<string>GJ_GameSheet03.png</string>
+		<string>GJ_GameSheet03-hd.png</string>
 	</dict>
 </dict>
 </plist>

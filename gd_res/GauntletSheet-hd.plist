@@ -39,7 +39,7 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0.0,0.5}</string>
+			<string>{0,0}</string>
 			<key>spriteSize</key>
 			<string>{118,124}</string>
 			<key>spriteSourceSize</key>
@@ -54,7 +54,7 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0.0,0.5}</string>
+			<string>{0,0}</string>
 			<key>spriteSize</key>
 			<string>{118,124}</string>
 			<key>spriteSourceSize</key>
@@ -69,7 +69,7 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0.0,1.0}</string>
+			<string>{0,1}</string>
 			<key>spriteSize</key>
 			<string>{118,120}</string>
 			<key>spriteSourceSize</key>
@@ -84,7 +84,7 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0.0,1.0}</string>
+			<string>{0,1}</string>
 			<key>spriteSize</key>
 			<string>{118,120}</string>
 			<key>spriteSourceSize</key>
@@ -99,7 +99,7 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0.0,-3.0}</string>
+			<string>{0,-3}</string>
 			<key>spriteSize</key>
 			<string>{118,116}</string>
 			<key>spriteSourceSize</key>
@@ -114,7 +114,7 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0.0,-3.0}</string>
+			<string>{0,-3}</string>
 			<key>spriteSize</key>
 			<string>{118,116}</string>
 			<key>spriteSourceSize</key>
@@ -129,7 +129,7 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0.0,11.5}</string>
+			<string>{0,12}</string>
 			<key>spriteSize</key>
 			<string>{118,137}</string>
 			<key>spriteSourceSize</key>
@@ -144,7 +144,7 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0.0,11.5}</string>
+			<string>{0,12}</string>
 			<key>spriteSize</key>
 			<string>{118,137}</string>
 			<key>spriteSourceSize</key>
@@ -159,7 +159,7 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0.0,2.0}</string>
+			<string>{0,2}</string>
 			<key>spriteSize</key>
 			<string>{118,125}</string>
 			<key>spriteSourceSize</key>
@@ -174,7 +174,7 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0.0,2.0}</string>
+			<string>{0,2}</string>
 			<key>spriteSize</key>
 			<string>{118,125}</string>
 			<key>spriteSourceSize</key>
@@ -189,7 +189,7 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0.0,4.0}</string>
+			<string>{0,4}</string>
 			<key>spriteSize</key>
 			<string>{118,133}</string>
 			<key>spriteSourceSize</key>
@@ -204,7 +204,7 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0.0,4.0}</string>
+			<string>{0,4}</string>
 			<key>spriteSize</key>
 			<string>{118,133}</string>
 			<key>spriteSourceSize</key>
@@ -219,7 +219,7 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0.0,0.0}</string>
+			<string>{0,0}</string>
 			<key>spriteSize</key>
 			<string>{119,121}</string>
 			<key>spriteSourceSize</key>
@@ -234,7 +234,7 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0.0,0.0}</string>
+			<string>{0,0}</string>
 			<key>spriteSize</key>
 			<string>{119,121}</string>
 			<key>spriteSourceSize</key>
@@ -249,7 +249,7 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0.0,0.0}</string>
+			<string>{0,0}</string>
 			<key>spriteSize</key>
 			<string>{119,113}</string>
 			<key>spriteSourceSize</key>
@@ -264,7 +264,7 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0.0,0.0}</string>
+			<string>{0,0}</string>
 			<key>spriteSize</key>
 			<string>{119,113}</string>
 			<key>spriteSourceSize</key>
@@ -279,7 +279,7 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0.0,0.5}</string>
+			<string>{0,0}</string>
 			<key>spriteSize</key>
 			<string>{120,132}</string>
 			<key>spriteSourceSize</key>
@@ -294,7 +294,7 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0.0,0.5}</string>
+			<string>{0,0}</string>
 			<key>spriteSize</key>
 			<string>{120,132}</string>
 			<key>spriteSourceSize</key>
@@ -309,7 +309,7 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0.0,1.0}</string>
+			<string>{0,1}</string>
 			<key>spriteSize</key>
 			<string>{118,126}</string>
 			<key>spriteSourceSize</key>
@@ -324,7 +324,7 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0.0,1.0}</string>
+			<string>{0,1}</string>
 			<key>spriteSize</key>
 			<string>{118,126}</string>
 			<key>spriteSourceSize</key>
@@ -339,7 +339,7 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0.0,1.5}</string>
+			<string>{0,2}</string>
 			<key>spriteSize</key>
 			<string>{118,129}</string>
 			<key>spriteSourceSize</key>
@@ -354,7 +354,7 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0.0,1.5}</string>
+			<string>{0,2}</string>
 			<key>spriteSize</key>
 			<string>{118,129}</string>
 			<key>spriteSourceSize</key>
@@ -369,7 +369,7 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0.0,4.0}</string>
+			<string>{0,4}</string>
 			<key>spriteSize</key>
 			<string>{118,123}</string>
 			<key>spriteSourceSize</key>
@@ -384,7 +384,7 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0.0,4.0}</string>
+			<string>{0,4}</string>
 			<key>spriteSize</key>
 			<string>{118,123}</string>
 			<key>spriteSourceSize</key>
@@ -399,7 +399,7 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0.0,-4.5}</string>
+			<string>{0,-4}</string>
 			<key>spriteSize</key>
 			<string>{118,108}</string>
 			<key>spriteSourceSize</key>
@@ -414,7 +414,7 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0.0,-4.5}</string>
+			<string>{0,-4}</string>
 			<key>spriteSize</key>
 			<string>{118,108}</string>
 			<key>spriteSourceSize</key>
@@ -429,7 +429,7 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0.0,3.0}</string>
+			<string>{0,3}</string>
 			<key>spriteSize</key>
 			<string>{118,137}</string>
 			<key>spriteSourceSize</key>
@@ -444,7 +444,7 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0.0,3.0}</string>
+			<string>{0,3}</string>
 			<key>spriteSize</key>
 			<string>{118,137}</string>
 			<key>spriteSourceSize</key>
@@ -459,7 +459,7 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0.0,4.5}</string>
+			<string>{0,4}</string>
 			<key>spriteSize</key>
 			<string>{118,128}</string>
 			<key>spriteSourceSize</key>
@@ -474,7 +474,7 @@
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{0.0,4.5}</string>
+			<string>{0,4}</string>
 			<key>spriteSize</key>
 			<string>{118,128}</string>
 			<key>spriteSourceSize</key>
@@ -484,12 +484,27 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
+		<key>theLostGauntletsLabel_001.pdn</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string></string>
+			<key>spriteSize</key>
+			<string>{0,0}</string>
+			<key>spriteSourceSize</key>
+			<string></string>
+			<key>textureRect</key>
+			<string>{{2,0},{0,0}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
 		<key>theLostGauntletsLabel_001.png</key>
 		<dict>
 			<key>aliases</key>
 			<array/>
 			<key>spriteOffset</key>
-			<string>{2.5,-2.5}</string>
+			<string>{2,-2}</string>
 			<key>spriteSize</key>
 			<string>{626,65}</string>
 			<key>spriteSourceSize</key>
@@ -509,13 +524,13 @@
 		<key>premultiplyAlpha</key>
 		<false/>
 		<key>realTextureFileName</key>
-		<string>GauntletSheet.png</string>
+		<string>GauntletSheet-hd.png</string>
 		<key>size</key>
 		<string>{955,780}</string>
 		<key>smartupdate</key>
 		<string>$none</string>
 		<key>textureFileName</key>
-		<string>GauntletSheet.png</string>
+		<string>GauntletSheet-hd.png</string>
 	</dict>
 </dict>
 </plist>

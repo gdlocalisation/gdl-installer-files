@@ -64,6 +64,21 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
+		<key>GJ_dailyBtn_001.pdn</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string></string>
+			<key>spriteSize</key>
+			<string>{0,0}</string>
+			<key>spriteSourceSize</key>
+			<string></string>
+			<key>textureRect</key>
+			<string>{{2,0},{0,0}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
 		<key>GJ_dailyBtn_001.png</key>
 		<dict>
 			<key>aliases</key>
@@ -181,6 +196,21 @@
 			<string>{209,209}</string>
 			<key>textureRect</key>
 			<string>{{800,502},{199,199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>GJ_watchReplay_001.pdn</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string></string>
+			<key>spriteSize</key>
+			<string>{0,0}</string>
+			<key>spriteSourceSize</key>
+			<string></string>
+			<key>textureRect</key>
+			<string>{{3,0},{0,0}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -809,13 +839,13 @@
 		<key>premultiplyAlpha</key>
 		<false/>
 		<key>realTextureFileName</key>
-		<string>GJ_GameSheet04.png</string>
+		<string>GJ_GameSheet04-hd.png</string>
 		<key>size</key>
 		<string>{1938,1253}</string>
 		<key>smartupdate</key>
 		<string>$none</string>
 		<key>textureFileName</key>
-		<string>GJ_GameSheet04.png</string>
+		<string>GJ_GameSheet04-hd.png</string>
 	</dict>
 </dict>
 </plist>

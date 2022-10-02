@@ -484,6 +484,21 @@
     <key>textureRotated</key>
     <false/>
    </dict>
+   <key>theLostGauntletsLabel_001.pdn</key>
+   <dict>
+    <key>aliases</key>
+    <array/>
+    <key>spriteOffset</key>
+    <string></string>
+    <key>spriteSize</key>
+    <string>{0,0}</string>
+    <key>spriteSourceSize</key>
+    <string></string>
+    <key>textureRect</key>
+    <string>{{4,0},{0,0}}</string>
+    <key>textureRotated</key>
+    <false/>
+   </dict>
    <key>theLostGauntletsLabel_001.png</key>
    <dict>
     <key>aliases</key>
