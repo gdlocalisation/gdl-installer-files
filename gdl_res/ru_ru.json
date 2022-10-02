@@ -1635,5 +1635,6 @@
   "Death Effect": "Эффект Смерти",
   "Color": "Цвет",
   "Trail": "След",
-  "\nMaster Emblem": "Эмблему Хозяина"
+  "\nMaster Emblem": "Эмблему Хозяина",
+  "You need to <cl>collect</c> atleast <cy>10 stars</c> to enable <cg>saving</c>.": "<cl>Соберите</c> хотя бы <cy>10 звёзд</c>, чтобы разблокировать сохранение."
 }
