@@ -109,7 +109,7 @@ Block ID
 Dynamic\nBlock
 label
 Select Color
-Fade Time:
+Fade Time: 
 Paste
 Mixed
 0123456789.
@@ -134,9 +134,9 @@ Saturation: Mixed
 Brightness: Mixed
 Setup HSV
 Hue: Mixed
-Hue:
-Brightness:
-Saturation:
+Hue: 
+Brightness: 
+Saturation: 
 No Title
 %s Help
 Guideline Creator
@@ -283,11 +283,11 @@ Description [Optional]
 Level Name
 Low\nDetail\nMode
 Level Stats
-<cr>(high)</c>
+ <cr>(high)</c>
 <cy>%s</c>\n<cg>Total Attempts</c>: %i\n<cl>Total Jumps</c>: %i\n<cp>Objects</c>: %i
 ID: na
 Version: %i
-Unverified\nReq. Coins:
+Unverified\nReq. Coins: 
 Update Level Desc
 Do you want to <cg>update</c> the level <cl>description</c>?
 %s (%i)
@@ -311,7 +311,7 @@ Move this level to the top of the created levels list?
 Description updated!
 Length: %i seconds
 Length: %imin %is
-(high)
+ (high)
 Objects: %i/%i
 Save and Exit
 Save and Play
@@ -370,7 +370,7 @@ Time: %s
 Well done... Now try to complete it without any checkpoints!
 Level Verified!
 <cy>1</c>
-coin
+coin 
 <cy>all</c> coins
 Awesome!
 You need to <cg>collect</c> %s to verify the level!
@@ -446,7 +446,7 @@ Short
 Player
 death effect
 Quest Complete!
-Gauntlet
+ Gauntlet
 Something went wrong\nplease try again later
 Gauntlet
 Reward
@@ -488,7 +488,7 @@ Touch Triggered
 Spawn Triggered
 <cg>Follow a target object.</c>\n<cy>The follow group ID can only contain one object.</c>
 Follow command help
-Move Time:
+Move Time: 
 X Mod:
 Target\nGroup ID
 Follow\nGroup ID
@@ -589,7 +589,7 @@ Accepting Friend Request...
 Are you sure you want to block <cg>%s</c>?\n<cg>%s</c> will no longer be able to:\n- <cy>View your profile</c>\n- <cl>Send messages</c>\n- <cp>Send friend requests</c>\n- <cr>Messages from this user will be removed</c>
 Confirm Block
 Friend Request
-From:
+From: 
 No message
 Accept
 User blocked!
@@ -769,12 +769,12 @@ You have not <cg>downloaded</c> any <cl>levels</c> yet!
 Online Levels
 Tap <cg>New</c> to create a <cl>level</c>!
 Find Users
-(%i: %s)
+ (%i: %s)
 My Online Levels
 Map Packs
 Favorite Levels
 Saved Levels
-(%i)
+ (%i)
 My Levels
 <cg>Green</c> users are unregistered.\n<cy>Gold</c> users are unique registered.\n<cl>Blue</c> songs are official.\n<cp>Purple</c> songs are custom.
 Go to Folder
@@ -809,7 +809,7 @@ Practice Mode
 Level is up to date.
 Level download failed, please try again later.
 Normal Mode
-(%i%%)
+ (%i%%)
 Level delete failed, please try again later.
 Level Deleted
 This level uses a <cl>custom song</c> that has not been <cg>downloaded</c> yet.\nDo you want to play without music?\n<cy>Download by using the bar below</c>
@@ -841,7 +841,7 @@ Level Leaderboards
 <cy>Q: My score is wrong!?</c>\nA: Level leaderboards changed in update 2.11. Scores from before update 2.11 need to be replayed. You can see your leaderboard percentage by pressing the info button on the bottom left of the level page, or toggle the Leaderboard percent option.
 Create an <cg>account</c> to\ncompare scores\nwith <cl>other players</c>!
 upd_ll
-Leaderboard
+ Leaderboard
 Quick Search
 Enter a level, user or id
 Trending
@@ -1545,7 +1545,6 @@ from every moment dusk till dawn
 You seem to be skilled in the art of <co>deception</c>...
 But it does not matter, your <cl>trickery</c> ends here.
 My rain dries up all the land it touches
-Wrapping the Earth in a blood red shroud
 Wait, you are not <cl>RubRub</c>...
 My thunder comes before my lightning
 My lightning comes before my rain
@@ -1597,7 +1596,7 @@ Animation ID
 <cg>Animation settings help</c>
 Edit Animation Settings
 Randomize Start
-Speed:
+Speed: 
 Target ID
 BlockB ID
 BlockA ID
@@ -1635,26 +1634,26 @@ Pulse Mode
 Group
 Channel
 Target Type
-Fade Out:
-Hold:
-Fade In:
+Fade Out: 
+Hold: 
+Fade In: 
 Pulse Effect
 <cy>Applies a temporary color effect to a group or channel.</c>\n<cg>Color Mode tints the target to the selected color.</c>\n<cl>HSV Mode modifies the base colors Hue, saturation and brightness</c>\n<cp>HSV mode can optionally use another color as the base (Color ID)</c>\n<cg>Target Type target a channel or a group.</c>\n <cy>You can toggle the group to target main, detail or both colors.</c>\n<cl>Exclusive: Disable all other pulses on the same ID when activated. Disabled in editor.</c>
 Detail\nOnly
 Main\nOnly
 Exclusive
-Degrees/s:
+Degrees/s: 
 Disable
 Edit Rotate Action
-Duration:
-Interval:
-Strength:
+Duration: 
+Interval: 
+Strength: 
 <cg>Shakes the screen for a duration.</c>\n<cy>Interval is how often the screen shakes.\nLeave at 0 to shake every frame.</c>\n<cl>Try to not overuse shake, as it can cause bad gameplay.</c>
 Setup Shake
 <cg>Used to simultaneously activate a group of triggers.</c>\n<cl>The triggers need to be marked as 'Spawn Triggered'</c>.\n<cy>Will activate the triggers regardless of their x-position.</c>\n<cp>Will trigger the objects in order from left to right.</c>\n<cl>Editor disable can be used to disable a trigger from activating in the editor. Used for performance.</c>
 Spawn Group
 Editor\nDisable
-Delay:
+Delay: 
 Spawn Group help
 Toggle\nOff
 Toggle\nOn
@@ -1670,7 +1669,7 @@ geometry.ach.%s%02d
 shardBonus
 shardLava
 This is the comment help.\n<cl>You're welcome.</c>
-Send friend request to
+Send friend request to 
 Friend request sent!
 [Optional Message]
 Insert comment
@@ -1776,7 +1775,7 @@ Line
 L
 Num
 Select Ground
-To:
+To: 
 icon
 FAQ
 Show
@@ -1787,9 +1786,13 @@ Snap
 Add
 No!
 ball
-Master Emblem
+\nMaster Emblem
 ufo
 wave
-main color
-secondary color
+\nmain color
+\nsecondary color
 ship
+Icon
+Wave
+UFO
+Ball

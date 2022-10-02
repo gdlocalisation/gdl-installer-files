@@ -1621,5 +1621,18 @@
   "You need a key to unlock this chest.": "Вам нужен ключ чтобы открыть этот сундук.",
   "Unlock <cy>%i</c> more <cg>%s</c>, and you can collect this bonus.": "Открой ещё <cy>%i</c> <cg>%s</c>, и ты сможешь собрать этот бонус.",
   "Chests": "Сунндук(а/ов)",
-  "You need %i more keys to unlock this chest": "Вам нужно(ен) ещё %i ключ(а/ей), чтобы открыть этот сундук"
+  "You need %i more keys to unlock this chest": "Вам нужно(ен) ещё %i ключ(а/ей), чтобы открыть этот сундук",
+	"%s to <cl>unlock</c> this <cg>%s</c>!": "%s, чтобы <cl>разблокировать</c> <cg>%s</c>!",
+	"A demon guards it. Find him.": "Его охраняет демон. Найди его.",
+	"Icon": "Иконка",
+	"color": "цвет",
+	"\ndeath effect": "эффект смерти",
+	"Ball": "Шар",
+	"UFO": "НЛО",
+	"Wave": "Волна",
+	"Robot": "Робот",
+	"Spider": "Паук",
+	"Death Effect": "Эффект Смерти",
+	"Color": "Цвет",
+	"Trail": "След"
 }
