@@ -1634,5 +1634,7 @@
     "Spider": "Паук",
     "Death Effect": "Эффект Смерти",
     "Trail": "След",
-    "\nMaster Emblem": "Эмблему Хозяина"
+    "\nMaster Emblem": "Эмблему Хозяина",
+    "You need to <cl>collect</c> atleast <cy>10 stars</c> to enable <cg>saving</c>.": "<cl>Соберите</c> хотя бы <cy>10 звёзд</c>, чтобы разблокировать сохранение.",
+	"Levels marked as <cg>Favorite</c> will show up here!": "Уровни, помеченные как <cg>Любимые</c> будут видны здесь!"
 }
