@@ -116,3 +116,9 @@ goldFont.png
 tutorial_04-hd.png
 tutorial_04-uhd.png
 tutorial_04.png
+GDL_Plist.plist
+GDL_Plist.png
+GDL_Plist-hd.plist
+GDL_Plist-hd.png
+GDL_Plist-uhd.plist
+GDL_Plist-uhd.png
